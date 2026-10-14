@@ -26,7 +26,7 @@ All active checks are restricted to explicitly authorized assets. The system is 
 
 ## Presentation
 
-🎥 **YouTube Demo:** https://youtu.be/fzksxTTI56o
+🎥 **YouTube Demo:** [WATCH](https://youtu.be/zWLLCSaBG18)
 ## Project Status
 
 Developed as a cybersecurity project addressing Challenge PS-011: Authorized Attack-Surface Discovery and Monitoring.
