@@ -1,0 +1,8 @@
+authorization_ref: AUTH-PS011-2026
+domains:
+- include_subdomains: true
+  name: example.com
+owner: AIORI Hackathon Team
+scope_version: 1
+valid_from: '2026-10-01'
+valid_until: '2026-12-31'
