@@ -1,0 +1,31 @@
+============================================================
+CYBER SENTRY - EASM COMPLIANCE REPORT
+============================================================
+Target Scope      : example.com
+Scan Timestamp    : 2026-11-01T18:34:11.134916
+Ledger Block ID   : 24
+Block Hash        : 9b1213a0fb0d7e35c45b60a6e2ed6b1e96e07c01972a058244dc71fce5e268d4
+------------------------------------------------------------
+ORGANIZATION RISK SCORE : 11/100
+OVERALL GRADE           : C (Moderate Risk)
+------------------------------------------------------------
+TLS CERTIFICATE HEALTH:
+  Issuer      : Cloudflare TLS Issuing ECC CA 3
+  Expiry      : 54 days
+  Risk Level  : LOW
+------------------------------------------------------------
+EXPOSED ASSET VULNERABILITY PROFILE:
+  [+] Port 80 (HTTP) - Risk: MEDIUM
+      Issue: Unencrypted web traffic
+  [+] Port 443 (HTTPS) - Risk: LOW
+      Issue: Standard encrypted web
+  [+] Port 8080 (HTTP-Alt) - Risk: MEDIUM
+      Issue: Often used for dev/admin panels
+------------------------------------------------------------
+SHADOW-IT / DISCOVERED INFRASTRUCTURE:
+  [*] example.com -> 104.20.23.154 (BASE/CANONICAL)
+------------------------------------------------------------
+REPORT INTEGRITY SIGNATURE (SHA-256):
+5d8869e675be8488cccc14f48f5237e2930d5cab0525fc8c2a1c97256435f208
+============================================================
+END OF REPORT
